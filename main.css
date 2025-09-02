@@ -13,7 +13,7 @@ nav a:hover{color:#fff;}
 /* Hero */
 .hero{
   height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;
-  background:url('/image/kal2.jpg') no-repeat center/cover;
+  background:url('image/kal2.jpg') no-repeat center/cover;
   background-attachment:fixed;text-align:center;padding:0 20px;
 }
 .hero h1{font-size:50px;margin-bottom:20px;color:#ffcc00;text-shadow:2px 2px 5px #000;opacity:0;animation:fadeInDown 1s forwards;}
